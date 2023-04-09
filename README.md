@@ -1,0 +1,1 @@
+Homework for 1st Python Seminar.
